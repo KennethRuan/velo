@@ -2,6 +2,8 @@
 
 ### An Automatic Vacation Generator
 
+[View the demo here!](https://www.youtube.com/watch?v=y-R1oUhMUT0&ab_channel=JustinLu)
+
 The COVID-19 pandemic has shut down the tourism industry. As a result, many vacation plans were ruined and hours of researching itineraries wasted. Our hope is to help travelers generate quick and effective travel itineraries to strengthen the local tourism industry when the time is right.
 
 Velo automatically generates travel itineraries given a time-frame and attractions that the traveler wants to visit. The order of the schedule is determined in our back-end by an algorithm we designed.
